@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: black;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#title {
+    background: rgb(9, 153, 255);
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+
+#hobbies {
+    background: red;
+    padding: 15px;
+    border-radius: 30px;
+    color: white;
+}
+
+#buttons {
+    margin: 10px;
+    padding: 5px;
+    background: white;
+    border-radius: 30px;
+
+}
